@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vybe</string>
+	<string name="mapbox_access_token">"YOUR MAPBOX PUBLIC TOKEN"</string>
+</resources>
